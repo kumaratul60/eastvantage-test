@@ -1,6 +1,16 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Available features
+
+:heavy_check_mark: create a react application using typescript
+
+:heavy_check_mark: fetching data from api using axios library and showing on UI
+
+:heavy_check_mark: implementing code-splitting for performance optimization
+
+:heavy_check_mark: implementing BEM-CSS convention for application styling
+
+:heavy_check_mark: implement clean code architecture to create a optimized build and Web responsiveness
 
 ## Available Scripts
 
